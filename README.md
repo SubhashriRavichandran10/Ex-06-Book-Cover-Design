@@ -135,6 +135,8 @@ Add images and other contents using CSS record a screenshot of it.
 </html>
 ```
 # output :
+![Screenshot 2023-12-15 203709](https://github.com/SubhashriRavichandran10/Ex-06-Book-Cover-Design/assets/145743413/ec9d3096-4438-4896-82c6-5a49cbc93e6c)
+
 # result:
 Thus a website to display the cover page design of a book was successfully created
 
